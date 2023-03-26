@@ -46,8 +46,8 @@ def check_password_strength():
        remarks = ('Your password is hard to guess.'
            ' But you could make it even more secure.')
    elif strength == 5:
-       remarks = ('Now that\'s one hell of a strong password!!!'
-           ' Hackers don\'t have a chance guessing that password!')
+       remarks = ('Fantastic, using that password makes you as secure as Fort Knox.'
+           "Hackers don't have a chance guessing that password!")
 
    print('Your password has:-')
    print(f'{lower_count} lowercase letters')
