@@ -1,4 +1,4 @@
-'''PASSWORD STRENGTH CHECKER'''
+'''PASSWORD STRENGTH METER'''
 
 
 import string
